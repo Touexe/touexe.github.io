@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>shortcodes on Touexe&#39;s blog</title>
+    <title>shortcodes on Touexe blog</title>
     <link>https://touexe.github.io/tags/shortcodes/</link>
-    <description>Recent content in shortcodes on Touexe&#39;s blog</description>
+    <description>Recent content in shortcodes on Touexe blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mrrtou@protonmail.com (Touexe)</managingEditor>
-    <webMaster>mrrtou@protonmail.com (Touexe)</webMaster>
+    <managingEditor>mrrtou@protonmail.com (TouEXE)</managingEditor>
+    <webMaster>mrrtou@protonmail.com (TouEXE)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 19 Dec 2019 12:00:06 +0900</lastBuildDate>
     
@@ -24,12 +24,12 @@
         <title>Rich Content</title>
         <link>https://touexe.github.io/posts/rich-content/</link>
         <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
-        <author>mrrtou@protonmail.com (Touexe)</author>
+        <author>mrrtou@protonmail.com (TouEXE)</author>
         <atom:modified>Thu, 19 Dec 2019 12:00:06 +0900</atom:modified>
         <guid>https://touexe.github.io/posts/rich-content/</guid>
         <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
         
-        <dc:creator>Lee</dc:creator>
+        <dc:creator>DICK</dc:creator>
         <media:content url="https://touexe.github.io/images/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         

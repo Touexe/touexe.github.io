@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>namoji on Touexe&#39;s blog</title>
+    <title>namoji on Touexe blog</title>
     <link>https://touexe.github.io/tags/namoji/</link>
-    <description>Recent content in namoji on Touexe&#39;s blog</description>
+    <description>Recent content in namoji on Touexe blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mrrtou@protonmail.com (Touexe)</managingEditor>
-    <webMaster>mrrtou@protonmail.com (Touexe)</webMaster>
+    <managingEditor>mrrtou@protonmail.com (TouEXE)</managingEditor>
+    <webMaster>mrrtou@protonmail.com (TouEXE)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
     
@@ -24,7 +24,7 @@
         <title>Emoji Support</title>
         <link>https://touexe.github.io/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>mrrtou@protonmail.com (Touexe)</author>
+        <author>mrrtou@protonmail.com (TouEXE)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
         <guid>https://touexe.github.io/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>

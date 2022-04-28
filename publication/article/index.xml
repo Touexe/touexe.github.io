@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>article on Touexe&#39;s blog</title>
+    <title>article on Touexe blog</title>
     <link>https://touexe.github.io/publication/article/</link>
-    <description>Recent content in article on Touexe&#39;s blog</description>
+    <description>Recent content in article on Touexe blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mrrtou@protonmail.com (Touexe)</managingEditor>
-    <webMaster>mrrtou@protonmail.com (Touexe)</webMaster>
+    <managingEditor>mrrtou@protonmail.com (TouEXE)</managingEditor>
+    <webMaster>mrrtou@protonmail.com (TouEXE)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
@@ -24,12 +24,12 @@
         <title>Good Title</title>
         <link>https://touexe.github.io/publication/article/article_any_folder_name_1/</link>
         <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-        <author>mrrtou@protonmail.com (Touexe)</author>
+        <author>mrrtou@protonmail.com (TouEXE)</author>
         <atom:modified>Fri, 01 Jun 2018 00:00:00 +0000</atom:modified>
         <guid>https://touexe.github.io/publication/article/article_any_folder_name_1/</guid>
         <description></description>
         
-        <dc:creator>Touexe</dc:creator>
+        <dc:creator>TouEXE</dc:creator>
         
         
         
