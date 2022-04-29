@@ -57,7 +57,7 @@
 7 Segment display អាចបង្ហាញលេខចំនួន 10លេខ ចាប់ពីលេខ 0 ដល់លេខ 9 និងអក្សរចំនូន 6 ចាប់ពី A ដល់ F ដោយមានបង្គុំអំពូល LED នៅកំណាត់ណាមួយ បេីក ឫ បិទ ( មានភ្លើង ឫ អត់ភ្លើង ) ។ Ex : ដើម្បីបង្ហាញលេខ 9 កំណាត់ E ត្រូវបិទរីឯកំណាត់ផ្សេងៗត្រូវភ្លឺទាំងអស់ ។ វាអាចបង្ហាញលេខអក្សរមួយចំនួនដែលបានរៀបរាប់ខាងលើតែប៉ុណ្ណោះទេ វាមិនបង្ហាញអក្សរផ្សេងៗឫសញ្ញាផ្សេងៗទៀតបានឡើយ តែអាចធ្វើបានដោយទ្រឺស្ដីផ្សេង :</description>
         
         <dc:creator>TouEXE</dc:creator>
-        
+        <media:content url="https://touexe.github.io/images/7-segment-display/7-segement-board.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
