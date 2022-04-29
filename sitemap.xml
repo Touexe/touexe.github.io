@@ -14,16 +14,19 @@
     <loc>https://touexe.github.io/posts/7-segments-introduction-and-simulation/</loc>
     <lastmod>2022-04-29T18:56:28+07:00</lastmod>
   </url><url>
-    <loc>https://touexe.github.io/tags/electronics/</loc>
+    <loc>https://touexe.github.io/categories/</loc>
+    <lastmod>2022-04-29T18:56:28+07:00</lastmod>
+  </url><url>
+    <loc>https://touexe.github.io/categories/electronics/</loc>
     <lastmod>2022-04-29T18:56:28+07:00</lastmod>
   </url><url>
     <loc>https://touexe.github.io/posts/</loc>
     <lastmod>2022-04-29T18:56:28+07:00</lastmod>
   </url><url>
-    <loc>https://touexe.github.io/tags/school-report/</loc>
+    <loc>https://touexe.github.io/series/school-report/</loc>
     <lastmod>2022-04-29T18:56:28+07:00</lastmod>
   </url><url>
-    <loc>https://touexe.github.io/tags/</loc>
+    <loc>https://touexe.github.io/series/</loc>
     <lastmod>2022-04-29T18:56:28+07:00</lastmod>
   </url><url>
     <loc>https://touexe.github.io/publication/article/</loc>
@@ -38,128 +41,11 @@
     <loc>https://touexe.github.io/publication/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url><url>
-    <loc>https://touexe.github.io/tags/shortcode/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/posts/shortcodes/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-  </url><url>
     <loc>https://touexe.github.io/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
   </url><url>
     <loc>https://touexe.github.io/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/categories/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/tags/css/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/tags/html/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/tags/markdown/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/posts/markdown-syntax/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/series/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/categories/syntax/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/tags/themes/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/categories/themes/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/series/themes-guide/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/tags/privacy/</loc>
-    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/posts/rich-content/</loc>
-    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/tags/hugo/</loc>
-    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/categories/hugo/</loc>
-    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/posts/syntax-highlight/</loc>
-    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/posts/math-typesetting/</loc>
-    <lastmod>2019-12-17T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/tags/amoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/tags/bamoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/tags/emoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/posts/emoji-support/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/tags/gamoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/tags/namoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/categories/diagram/</loc>
-    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/posts/test-viz/</loc>
-    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/posts/test-wavedrom/</loc>
-    <lastmod>2019-11-18T18:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/posts/test-chartjs/</loc>
-    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/posts/test-js-sequence-diagrams/</loc>
-    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/tags/diagram/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/posts/test-mermaid/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/categories/math/</loc>
-    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/posts/test-mathjax/</loc>
-    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/posts/test-katex/</loc>
-    <lastmod>2019-11-15T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/posts/test-flowchart/</loc>
-    <lastmod>2019-11-14T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/gallery/cartoon/</loc>
-    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/gallery/</loc>
-    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/gallery/photo/</loc>
-    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
   </url><url>
     <loc>https://touexe.github.io/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
@@ -192,5 +78,7 @@
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://touexe.github.io/tags/index/</loc>
+  </url><url>
+    <loc>https://touexe.github.io/tags/</loc>
   </url>
 </urlset>
