@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://touexe.github.io/showcase/hugo/hugo-theme-zzo/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+    <loc>https://touexe.github.io/showcase/repositories/phishersmash/</loc>
+    <lastmod>2022-04-29T21:58:46+07:00</lastmod>
   </url><url>
-    <loc>https://touexe.github.io/showcase/hugo/hugo-theme-zdoc/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+    <loc>https://touexe.github.io/about/</loc>
+    <lastmod>2022-04-30T21:15:17+07:00</lastmod>
   </url><url>
     <loc>https://touexe.github.io/</loc>
-    <lastmod>2022-04-29T18:56:28+07:00</lastmod>
+    <lastmod>2022-04-29T21:58:46+07:00</lastmod>
   </url><url>
     <loc>https://touexe.github.io/posts/7-segments-introduction-and-simulation/</loc>
     <lastmod>2022-04-29T18:56:28+07:00</lastmod>
@@ -41,32 +41,11 @@
     <loc>https://touexe.github.io/publication/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url><url>
-    <loc>https://touexe.github.io/showcase/hugo/</loc>
-    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
-  </url><url>
     <loc>https://touexe.github.io/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
   </url><url>
-    <loc>https://touexe.github.io/presentation/dir/fourth/</loc>
-    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/presentation/</loc>
-    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/presentation/third/</loc>
-    <lastmod>2019-10-30T20:46:30+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/presentation/second/</loc>
-    <lastmod>2019-10-30T20:45:24+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/presentation/first/</loc>
-    <lastmod>2019-10-30T19:45:20+09:00</lastmod>
-  </url><url>
     <loc>https://touexe.github.io/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://touexe.github.io/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
