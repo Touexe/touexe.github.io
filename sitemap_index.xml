@@ -1,63 +1,109 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://touexe.github.io/showcase/repositories/phishersmash/</loc>
-    <lastmod>2022-04-29T21:58:46+07:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/about/</loc>
-    <lastmod>2022-04-30T21:15:17+07:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/</loc>
-    <lastmod>2022-04-29T21:58:46+07:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/posts/7-segments-introduction-and-simulation/</loc>
-    <lastmod>2022-04-29T18:56:28+07:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/categories/</loc>
-    <lastmod>2022-04-29T18:56:28+07:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/categories/electronics/</loc>
-    <lastmod>2022-04-29T18:56:28+07:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/posts/</loc>
-    <lastmod>2022-04-29T18:56:28+07:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/series/school-report/</loc>
-    <lastmod>2022-04-29T18:56:28+07:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/series/</loc>
-    <lastmod>2022-04-29T18:56:28+07:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/publication/article/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/publication/book/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/publication/misc/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/publication/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/showcase/</loc>
-    <lastmod>2020-01-19T15:43:38+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/archive/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/publication/article/article_any_folder_name_1/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/publication/book/book_any_folder_name_1/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/publication/misc/misc_any_folder_name_1/</loc>
-    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://touexe.github.io/tags/index/</loc>
-  </url><url>
-    <loc>https://touexe.github.io/tags/</loc>
-  </url>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://touexe.com/</loc>
+	<lastmod>2022-05-08T13:12:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://touexe.com/about</loc>
+	<lastmod>2022-05-08T13:12:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://touexe.com/archive</loc>
+	<lastmod>2022-05-08T13:12:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://touexe.com/presentation</loc>
+	<lastmod>2022-05-08T13:12:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://touexe.com/showcase</loc>
+	<lastmod>2022-05-08T13:12:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://touexe.com/posts/</loc>
+	<lastmod>2022-05-08T13:12:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://touexe.com/posts/7-segments-introduction-and-simulation/</loc>
+	<lastmod>2022-05-08T13:12:04+01:00</lastmod>
+	<priority>0.7</priority>
+</url>
+<url>
+	<loc>https://touexe.com/tags/</loc>
+	<lastmod>2022-05-08T13:12:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://touexe.com/tags/index/</loc>
+	<lastmod>2022-05-08T13:12:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://touexe.com/categories/</loc>
+	<lastmod>2022-05-08T13:12:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://touexe.com/categories/electronics/</loc>
+	<lastmod>2022-05-08T13:12:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://touexe.com/series/</loc>
+	<lastmod>2022-05-08T13:12:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://touexe.com/series/school-report/</loc>
+	<lastmod>2022-05-08T13:12:04+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://touexe.com/about/</loc>
+	<lastmod>2022-05-08T13:12:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://touexe.com/archive/</loc>
+	<lastmod>2022-05-08T13:12:06+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://touexe.com/presentation/</loc>
+	<lastmod>2022-05-08T13:12:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://touexe.com/showcase/</loc>
+	<lastmod>2022-05-08T13:12:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://touexe.com/presentation/dir/fourth/</loc>
+	<lastmod>2022-05-08T13:12:08+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://touexe.com/presentation/third/</loc>
+	<lastmod>2022-05-08T13:12:08+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://touexe.com/presentation/second/</loc>
+	<lastmod>2022-05-08T13:12:08+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://touexe.com/presentation/first/</loc>
+	<lastmod>2022-05-08T13:12:08+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
 </urlset>
