@@ -48,11 +48,11 @@
         <author>mrrtou@protonmail.com (TouEXE)</author>
         <atom:modified>Sat, 14 May 2022 22:40:52 +0700</atom:modified>
         <guid>https://touexe.com/homeworks/chapter-3-exercise-and-answers/</guid>
-        <description>Exercises 3.3 Exercise 3.3: 1 2 3 4   Exercises 3.4 Exercise 3.4: 1 2   Exercises 3.6 Exercise 3.6: 1  
-Exercise 3.6: 2 4  
-Exercise 3.6: 4 5  
-Exercises 3.8 Exercise 3.8: 1 2  
-Exercise 3.8: 3 4</description>
+        <description>Exercises 3.3 Exercise 3.3: 1 2 3 4   Exercises 3.4 Exercise 3.4: 1 2   Exercises 3.4 - Technical Computing Using a technical computing language draw y = sin x
+and y = cos x for 0 6 x 6 4π on the same axes. Use
+your graphs to find approximate solutions to the
+equation sin x = cos x.
+Exercise 3.4 Technical Computing: 1</description>
         
         <dc:creator>TouEXE</dc:creator>
         <media:content url="https://touexe.com//images/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
