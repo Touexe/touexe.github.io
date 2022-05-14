@@ -7,26 +7,26 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Touexe blog</title>
-    <link>https://touexe.github.io/series/</link>
+    <link>https://touexe.com/series/</link>
     <description>Recent content in Series on Touexe blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mrrtou@protonmail.com (TouEXE)</managingEditor>
     <webMaster>mrrtou@protonmail.com (TouEXE)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 29 Apr 2022 18:56:28 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 14 May 2022 22:40:52 +0700</lastBuildDate>
     
-        <atom:link href="https://touexe.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://touexe.com/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>school report</title>
-        <link>https://touexe.github.io/series/school-report/</link>
-        <pubDate>Fri, 29 Apr 2022 18:56:28 +0700</pubDate>
+        <link>https://touexe.com/series/school-report/</link>
+        <pubDate>Sat, 14 May 2022 22:40:52 +0700</pubDate>
         <author>mrrtou@protonmail.com (TouEXE)</author>
         
-        <guid>https://touexe.github.io/series/school-report/</guid>
+        <guid>https://touexe.com/series/school-report/</guid>
         <description></description>
         
         <dc:creator>TouEXE</dc:creator>

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Showcase overview on Touexe blog</title>
-    <link>https://touexe.github.io/showcase/</link>
+    <link>https://touexe.com/showcase/</link>
     <description>Recent content in Showcase overview on Touexe blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 19 Jan 2020 15:43:38 +0900</lastBuildDate>
     
-        <atom:link href="https://touexe.github.io/showcase/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://touexe.com/showcase/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>PhisherSmash</title>
-        <link>https://touexe.github.io/showcase/repositories/phishersmash/</link>
+        <link>https://touexe.com/showcase/repositories/phishersmash/</link>
         <pubDate>Fri, 29 Apr 2022 21:58:46 +0700</pubDate>
         <author>mrrtou@protonmail.com (TouEXE)</author>
         <atom:modified>Fri, 29 Apr 2022 21:58:46 +0700</atom:modified>
-        <guid>https://touexe.github.io/showcase/repositories/phishersmash/</guid>
+        <guid>https://touexe.com/showcase/repositories/phishersmash/</guid>
         <description></description>
         
         <dc:creator>TouEXE</dc:creator>

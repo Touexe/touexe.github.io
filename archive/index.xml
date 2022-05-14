@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Archive on Touexe blog</title>
-    <link>https://touexe.github.io/archive/</link>
+    <link>https://touexe.com/archive/</link>
     <description>Recent content in Archive on Touexe blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
     
-        <atom:link href="https://touexe.github.io/archive/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://touexe.com/archive/index.xml" rel="self" type="application/rss+xml" />
     
 
       

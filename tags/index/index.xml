@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on Touexe blog</title>
-    <link>https://touexe.github.io/tags/index/</link>
+    <link>https://touexe.com/tags/index/</link>
     <description>Recent content in index on Touexe blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,17 +15,41 @@
     <webMaster>mrrtou@protonmail.com (TouEXE)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     
-        <atom:link href="https://touexe.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://touexe.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
+        <title>Homeworks</title>
+        <link>https://touexe.com/homeworks/</link>
+        <pubDate>Sat, 14 May 2022 22:40:52 +0700</pubDate>
+        <author>mrrtou@protonmail.com (TouEXE)</author>
+        
+        <guid>https://touexe.com/homeworks/</guid>
+        <description></description>
+        
+        <dc:creator>Touexe</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>index</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Posts</title>
-        <link>https://touexe.github.io/posts/</link>
+        <link>https://touexe.com/posts/</link>
         <pubDate>Fri, 29 Apr 2022 18:56:28 +0700</pubDate>
         <author>mrrtou@protonmail.com (TouEXE)</author>
         
-        <guid>https://touexe.github.io/posts/</guid>
+        <guid>https://touexe.com/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>

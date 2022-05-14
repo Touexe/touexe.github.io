@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Touexe blog</title>
-    <link>https://touexe.github.io/categories/</link>
+    <link>https://touexe.com/categories/</link>
     <description>Recent content in Categories on Touexe blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 29 Apr 2022 18:56:28 +0700</lastBuildDate>
     
-        <atom:link href="https://touexe.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://touexe.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>electronics</title>
-        <link>https://touexe.github.io/categories/electronics/</link>
+        <link>https://touexe.com/categories/electronics/</link>
         <pubDate>Fri, 29 Apr 2022 18:56:28 +0700</pubDate>
         <author>mrrtou@protonmail.com (TouEXE)</author>
         
-        <guid>https://touexe.github.io/categories/electronics/</guid>
+        <guid>https://touexe.com/categories/electronics/</guid>
         <description></description>
         
         <dc:creator>TouEXE</dc:creator>

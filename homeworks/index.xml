@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Homeworks on Touexe blog</title>
+    <link>https://touexe.com/homeworks/</link>
+    <description>Recent content in Homeworks on Touexe blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mrrtou@protonmail.com (TouEXE)</managingEditor>
+    <webMaster>mrrtou@protonmail.com (TouEXE)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 14 May 2022 22:40:52 +0700</lastBuildDate>
+    
+        <atom:link href="https://touexe.com/homeworks/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Chapter 3 : The Trigonometric Functions - Exercises and Answers</title>
+        <link>https://touexe.com/homeworks/chapter-3-exercise-and-answers/</link>
+        <pubDate>Sat, 14 May 2022 22:40:52 +0700</pubDate>
+        <author>mrrtou@protonmail.com (TouEXE)</author>
+        <atom:modified>Sat, 14 May 2022 22:40:52 +0700</atom:modified>
+        <guid>https://touexe.com/homeworks/chapter-3-exercise-and-answers/</guid>
+        <description>Exercises 3.3 Exercise 3.3: 1 2 3 4   Exercises 3.4 Exercise 3.4: 1 2   Exercises 3.6 Exercise 3.6: 1  
+Exercise 3.6: 2 4  
+Exercise 3.6: 4 5  
+Exercises 3.8 Exercise 3.8: 1 2  
+Exercise 3.8: 3 4</description>
+        
+        <dc:creator>TouEXE</dc:creator>
+        <media:content url="https://touexe.com//images/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+          
+            
+              <category>school report</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

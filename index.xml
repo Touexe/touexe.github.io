@@ -7,16 +7,16 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Touexe blog</title>
-    <link>https://touexe.github.io/</link>
+    <link>https://touexe.com/</link>
     <description>Recent content on Touexe blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mrrtou@protonmail.com (TouEXE)</managingEditor>
     <webMaster>mrrtou@protonmail.com (TouEXE)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 29 Apr 2022 21:58:46 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 14 May 2022 22:40:52 +0700</lastBuildDate>
     
-        <atom:link href="https://touexe.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://touexe.com/index.xml" rel="self" type="application/rss+xml" />
     
       
       
@@ -42,12 +42,40 @@
 
       
       <item>
+        <title>Chapter 3 : The Trigonometric Functions - Exercises and Answers</title>
+        <link>https://touexe.com/homeworks/chapter-3-exercise-and-answers/</link>
+        <pubDate>Sat, 14 May 2022 22:40:52 +0700</pubDate>
+        <author>mrrtou@protonmail.com (TouEXE)</author>
+        <atom:modified>Sat, 14 May 2022 22:40:52 +0700</atom:modified>
+        <guid>https://touexe.com/homeworks/chapter-3-exercise-and-answers/</guid>
+        <description>Exercises 3.3 Exercise 3.3: 1 2 3 4   Exercises 3.4 Exercise 3.4: 1 2   Exercises 3.6 Exercise 3.6: 1  
+Exercise 3.6: 2 4  
+Exercise 3.6: 4 5  
+Exercises 3.8 Exercise 3.8: 1 2  
+Exercise 3.8: 3 4</description>
+        
+        <dc:creator>TouEXE</dc:creator>
+        <media:content url="https://touexe.com//images/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+          
+            
+              <category>school report</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>7 segment display : Introduction  &amp; Simulation </title>
-        <link>https://touexe.github.io/posts/7-segments-introduction-and-simulation/</link>
+        <link>https://touexe.com/posts/7-segments-introduction-and-simulation/</link>
         <pubDate>Fri, 29 Apr 2022 18:56:28 +0700</pubDate>
         <author>mrrtou@protonmail.com (TouEXE)</author>
         <atom:modified>Fri, 29 Apr 2022 18:56:28 +0700</atom:modified>
-        <guid>https://touexe.github.io/posts/7-segments-introduction-and-simulation/</guid>
+        <guid>https://touexe.com/posts/7-segments-introduction-and-simulation/</guid>
         <description>7 segment display ជាអ្វី ? 
 7 Segment display គឺជាគ្រឿងអេឡិចត្រូនិចដែលមានមុខងារបង្ហាញជាលេខឫអក្សរ ។
 “ 7 Segment ” អាចបកប្រែមកជាភាសាខ្មែរថា “ ប្រាំពីរកំណាត់ ” ។ វាបង្កើតឡើងដោយបង្គុំអំពូលភ្លើង LED ផ្គុំគ្នាចេញជា 7 កំណាត់ កំណាត់នីមួយៗអាចតាងជាអក្សរ A, B, C, D, E, F, G ។
@@ -55,7 +83,7 @@
 7 Segment display អាចបង្ហាញលេខចំនួន 10លេខ ចាប់ពីលេខ 0 ដល់លេខ 9 និងអក្សរចំនូន 6 ចាប់ពី A ដល់ F ដោយមានបង្គុំអំពូល LED នៅកំណាត់ណាមួយ បេីក ឫ បិទ ( មានភ្លើង ឫ អត់ភ្លើង ) ។ Ex : ដើម្បីបង្ហាញលេខ 9 កំណាត់ E ត្រូវបិទរីឯកំណាត់ផ្សេងៗត្រូវភ្លឺទាំងអស់ ។ វាអាចបង្ហាញលេខអក្សរមួយចំនួនដែលបានរៀបរាប់ខាងលើតែប៉ុណ្ណោះទេ វាមិនបង្ហាញអក្សរផ្សេងៗឫសញ្ញាផ្សេងៗទៀតបានឡើយ តែអាចធ្វើបានដោយទ្រឺស្ដីផ្សេង :</description>
         
         <dc:creator>TouEXE</dc:creator>
-        <media:content url="https://touexe.github.io/images/7-segment-display/7Segment8.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://touexe.com/images/7-segment-display/7Segment8.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

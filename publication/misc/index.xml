@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>misc on Touexe blog</title>
-    <link>https://touexe.github.io/publication/misc/</link>
+    <link>https://touexe.com/publication/misc/</link>
     <description>Recent content in misc on Touexe blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="https://touexe.github.io/publication/misc/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://touexe.com/publication/misc/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Book Review: Duis vulputate</title>
-        <link>https://touexe.github.io/publication/misc/misc_any_folder_name_1/</link>
+        <link>https://touexe.com/publication/misc/misc_any_folder_name_1/</link>
         <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
         <author>mrrtou@protonmail.com (TouEXE)</author>
         <atom:modified>Tue, 01 Nov 2016 00:00:00 +0000</atom:modified>
-        <guid>https://touexe.github.io/publication/misc/misc_any_folder_name_1/</guid>
+        <guid>https://touexe.com/publication/misc/misc_any_folder_name_1/</guid>
         <description></description>
         
         <dc:creator>TouEXE</dc:creator>
