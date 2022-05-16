@@ -6,19 +6,37 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Series on Touexe blog</title>
+    <title>Series on Touexe</title>
     <link>https://touexe.com/series/</link>
-    <description>Recent content in Series on Touexe blog</description>
+    <description>Recent content in Series on Touexe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mrrtou@protonmail.com (TouEXE)</managingEditor>
     <webMaster>mrrtou@protonmail.com (TouEXE)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 14 May 2022 22:40:52 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 16 May 2022 08:47:44 +0700</lastBuildDate>
     
         <atom:link href="https://touexe.com/series/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>tips &amp; tricks</title>
+        <link>https://touexe.com/series/tips-tricks/</link>
+        <pubDate>Mon, 16 May 2022 08:47:44 +0700</pubDate>
+        <author>mrrtou@protonmail.com (TouEXE)</author>
+        
+        <guid>https://touexe.com/series/tips-tricks/</guid>
+        <description></description>
+        
+        <dc:creator>TouEXE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>school report</title>

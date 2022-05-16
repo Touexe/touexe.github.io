@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>index on Touexe blog</title>
+    <title>index on Touexe</title>
     <link>https://touexe.com/tags/index/</link>
-    <description>Recent content in index on Touexe blog</description>
+    <description>Recent content in index on Touexe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mrrtou@protonmail.com (TouEXE)</managingEditor>
@@ -20,33 +20,9 @@
 
       
       <item>
-        <title>Homeworks</title>
-        <link>https://touexe.com/homeworks/</link>
-        <pubDate>Sat, 14 May 2022 22:40:52 +0700</pubDate>
-        <author>mrrtou@protonmail.com (TouEXE)</author>
-        
-        <guid>https://touexe.com/homeworks/</guid>
-        <description></description>
-        
-        <dc:creator>Touexe</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>index</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
         <title>Posts</title>
         <link>https://touexe.com/posts/</link>
-        <pubDate>Fri, 29 Apr 2022 18:56:28 +0700</pubDate>
+        <pubDate>Mon, 16 May 2022 08:47:44 +0700</pubDate>
         <author>mrrtou@protonmail.com (TouEXE)</author>
         
         <guid>https://touexe.com/posts/</guid>

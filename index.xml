@@ -6,15 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Touexe blog</title>
+    <title>Touexe</title>
     <link>https://touexe.com/</link>
-    <description>Recent content on Touexe blog</description>
+    <description>Recent content on Touexe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mrrtou@protonmail.com (TouEXE)</managingEditor>
     <webMaster>mrrtou@protonmail.com (TouEXE)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 14 May 2022 22:40:52 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 16 May 2022 08:47:44 +0700</lastBuildDate>
     
         <atom:link href="https://touexe.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -39,23 +39,23 @@
       
         
       
+        
+      
 
       
       <item>
-        <title>Chapter 3 : The Trigonometric Functions - Exercises and Answers</title>
-        <link>https://touexe.com/homeworks/chapter-3-exercise-and-answers/</link>
-        <pubDate>Sat, 14 May 2022 22:40:52 +0700</pubDate>
+        <title>របៀបដំឡើង Visual Studio Code ប្រើប្រាស់ ជាមួយភាសា C និង ភាសា C&#43;&#43;</title>
+        <link>https://touexe.com/posts/how-to-setup-vscode-for-c-and-cpp-programming-language/</link>
+        <pubDate>Mon, 16 May 2022 08:47:44 +0700</pubDate>
         <author>mrrtou@protonmail.com (TouEXE)</author>
-        <atom:modified>Sat, 14 May 2022 22:40:52 +0700</atom:modified>
-        <guid>https://touexe.com/homeworks/chapter-3-exercise-and-answers/</guid>
-        <description>Exercises 3.3 Exercise 3.3: 1 2 3 4   Exercises 3.4 Exercise 3.4: 1 2   Exercises 3.4 - Technical Computing Using a technical computing language draw y = sin x
-and y = cos x for 0 6 x 6 4π on the same axes. Use
-your graphs to find approximate solutions to the
-equation sin x = cos x.
-Exercise 3.4 Technical Computing: 1</description>
+        <atom:modified>Mon, 16 May 2022 08:47:44 +0700</atom:modified>
+        <guid>https://touexe.com/posts/how-to-setup-vscode-for-c-and-cpp-programming-language/</guid>
+        <description>Introduction 🔥 Visual Studio Code ឫក៏ហៅកាត់ថា VS Code គឺជាកម្មវិធីសរសេរកូដឥតគិតថ្លៃដែលបង្កើតឡើងដោយ ក្រុមហ៊ុន Microsoft សម្រាប់ដំណើរការនៅលើប្រព័ន្ធប្រតិបត្តិការ Windows, Linux macOS ។ លក្ខណៈពិសេស Visual Studio Code រួមមានការដាស់តឿនកែកំហុសកូដ មុខងារជួយបំពេញកូដ និងមាន Extension យ៉ាងច្រើនសម្រាប់ជួយក្នុងការសរសេរនិងកែលម្អកម្មវីធីឲ្យងាយស្រួលនិងរហ័ស ។ ក្នុងអត្ថបទនេះយើងនឹងលើកយកពីវិធីដំឡើង Visual Studio Code និងកម្មវិធីផ្សេងៗទៀតមកជាជំនួយ ព្រមទាំងការដំឡើងឲ្យប្រើប្រាស់សម្រាប់សរសេរភាសា C និង C++ នៅលើប្រព័ន្ធប្រតិបត្តិការ Windows ។
+របៀបដំឡើងកម្មវិធី Visual Studio Code 🛠 ដើម្បីដំឡើង Visual Studio Code យើងអាចដំឡើងដោយ Download កម្មវីធីដំឡើងនៅក្នុង Website ផ្លូវការ ឫក៏ដំឡើងដោយ Download តាមរយៈ Microsoft Store ។
+របៀប 1 : ដំឡើងតាមរយៈ Website ផ្លូវការ ជាដំបូងយើងចូលទៅកាន់ https://code.visualstudio.com/download ។ រួចលើប៊ូតុងក្នុងបន្ទាត់ក្រហម ហើយយើងនឹងរង់ចាំរហូតដល់វា Download ចប់ ។</description>
         
         <dc:creator>TouEXE</dc:creator>
-        <media:content url="https://touexe.com//images/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://touexe.com//images/feature3/IDE.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -63,7 +63,7 @@ Exercise 3.4 Technical Computing: 1</description>
         
           
             
-              <category>school report</category>
+              <category>tips &amp; tricks</category>
             
           
         
