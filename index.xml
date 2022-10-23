@@ -14,7 +14,7 @@
     <managingEditor>mrrtou@protonmail.com (TouEXE)</managingEditor>
     <webMaster>mrrtou@protonmail.com (TouEXE)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 01 Jul 2022 14:29:34 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 23 Oct 2022 22:23:40 +0700</lastBuildDate>
     
         <atom:link href="https://touexe.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -44,6 +44,25 @@
 
       
       <item>
+        <title>Iteration method in programming</title>
+        <link>https://touexe.com/posts/iteration_method_in_programming/</link>
+        <pubDate>Sun, 23 Oct 2022 22:23:40 +0700</pubDate>
+        <author>mrrtou@protonmail.com (TouEXE)</author>
+        <atom:modified>Sun, 23 Oct 2022 22:23:40 +0700</atom:modified>
+        <guid>https://touexe.com/posts/iteration_method_in_programming/</guid>
+        <description>Introduction Calculate simultaneous equations using Iteration method such as Jacobi&amp;rsquo;s method and Guass-Seidel&amp;rsquo;s method programmingly.
+Source code ( Python ) python 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 def guass_seidel(n : int) -&amp;gt; list[tuple]: x = 0 y = 0 z = 0 result = [] for _ in range(1,n + 1): x = ((1 / 8) * y ) + ((1 / 8) * z ) - (1 / 8) y = ((1 / 5) * x) + ((1 / 5) * z ) - (16 /5) _z = ((1 / 4) * x) + ((1 / 4) * y ) - (7 /4) result.</description>
+        
+        <dc:creator>TouEXE</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Write a Program to Calculate Area Under Curve Using Trapezoidal Rule</title>
         <link>https://touexe.com/posts/write-a-program-to-calculate-area-under-curve-using-trapezoidal-rule/</link>
         <pubDate>Fri, 01 Jul 2022 14:29:34 +0700</pubDate>
@@ -52,9 +71,9 @@
         <guid>https://touexe.com/posts/write-a-program-to-calculate-area-under-curve-using-trapezoidal-rule/</guid>
         <description>Introduction Write a program to calcuate the area under curve using trapezoidal rule from given a data in spreadsheet xlxs format.
 Download file : AUC_data.xlsx
-Source code (Golang, Python)   Place the file in the same directory (folder) as the program
-  Install needed library
- Golang : go get github.com/xuri/excelize/v2 Python : pip install openpyxl    Read data from file containg the AUC data then load the data into array ( list in python and slice in golang ) of tuple in Python or struct in Golang and sort out the header during the process.</description>
+Source code (Golang, Python) Place the file in the same directory (folder) as the program
+Install needed library
+Golang : go get github.com/xuri/excelize/v2 Python : pip install openpyxl Read data from file containg the AUC data then load the data into array ( list in python and slice in golang ) of tuple in Python or struct in Golang and sort out the header during the process.</description>
         
         <dc:creator>TouEXE</dc:creator>
         <media:content url="https://touexe.com//images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -72,9 +91,9 @@ Source code (Golang, Python)   Place the file in the same directory (folder) as 
         <author>mrrtou@protonmail.com (TouEXE)</author>
         <atom:modified>Mon, 16 May 2022 08:47:44 +0700</atom:modified>
         <guid>https://touexe.com/posts/how-to-setup-vscode-for-c-and-cpp-programming-language/</guid>
-        <description>Introduction 🔥 របៀបដំឡើង Visual Studio Code ប្រើប្រាស់ ជាមួយភាសា C និង ភាសា C&amp;#43;&amp;#43;:  
-Visual Studio Code ឫក៏ហៅកាត់ថា VS Code គឺជាកម្មវិធីសរសេរកូដឥតគិតថ្លៃដែលបង្កើតឡើងដោយ ក្រុមហ៊ុន Microsoft សម្រាប់ដំណើរការនៅលើប្រព័ន្ធប្រតិបត្តិការ Windows, Linux macOS ។ លក្ខណៈពិសេស Visual Studio Code រួមមានការដាស់តឿនកែកំហុសកូដ មុខងារជួយបំពេញកូដ និងមាន Extension យ៉ាងច្រើនសម្រាប់ជួយក្នុងការសរសេរនិងកែលម្អកម្មវីធីឲ្យងាយស្រួលនិងរហ័ស ។ ក្នុងអត្ថបទនេះយើងនឹងលើកយកពីវិធីដំឡើង Visual Studio Code និងកម្មវិធីផ្សេងៗទៀតមកជាជំនួយ ព្រមទាំងការដំឡើងឲ្យប្រើប្រាស់សម្រាប់សរសេរភាសា C និង C++ នៅលើប្រព័ន្ធប្រតិបត្តិការ Windows ។
-របៀបដំឡើងកម្មវិធី Visual Studio Code 🛠 ដើម្បីដំឡើង Visual Studio Code យើងអាចដំឡើងដោយ Download កម្មវីធីដំឡើងនៅក្នុង Website ផ្លូវការ ឫក៏ដំឡើងដោយ Download តាមរយៈ Microsoft Store ។</description>
+        <description>Introduction 🔥 របៀបដំឡើង Visual Studio Code ប្រើប្រាស់ ជាមួយភាសា C និង ភាសា C&amp;#43;&amp;#43;: Visual Studio Code ឫក៏ហៅកាត់ថា VS Code គឺជាកម្មវិធីសរសេរកូដឥតគិតថ្លៃដែលបង្កើតឡើងដោយ ក្រុមហ៊ុន Microsoft សម្រាប់ដំណើរការនៅលើប្រព័ន្ធប្រតិបត្តិការ Windows, Linux macOS ។ លក្ខណៈពិសេស Visual Studio Code រួមមានការដាស់តឿនកែកំហុសកូដ មុខងារជួយបំពេញកូដ និងមាន Extension យ៉ាងច្រើនសម្រាប់ជួយក្នុងការសរសេរនិងកែលម្អកម្មវីធីឲ្យងាយស្រួលនិងរហ័ស ។ ក្នុងអត្ថបទនេះយើងនឹងលើកយកពីវិធីដំឡើង Visual Studio Code និងកម្មវិធីផ្សេងៗទៀតមកជាជំនួយ ព្រមទាំងការដំឡើងឲ្យប្រើប្រាស់សម្រាប់សរសេរភាសា C និង C++ នៅលើប្រព័ន្ធប្រតិបត្តិការ Windows ។
+របៀបដំឡើងកម្មវិធី Visual Studio Code 🛠 ដើម្បីដំឡើង Visual Studio Code យើងអាចដំឡើងដោយ Download កម្មវីធីដំឡើងនៅក្នុង Website ផ្លូវការ ឫក៏ដំឡើងដោយ Download តាមរយៈ Microsoft Store ។
+របៀប 1 : ដំឡើងតាមរយៈ Website ផ្លូវការ ជាដំបូងយើងចូលទៅកាន់ https://code.</description>
         
         <dc:creator>TouEXE</dc:creator>
         <media:content url="https://touexe.com//images/posts/how-to-setup-vscode-for-c-and-cpp-programming-language/vscode-how-to-feature.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -98,11 +117,9 @@ Visual Studio Code ឫក៏ហៅកាត់ថា VS Code គឺជាកម�
         <author>mrrtou@protonmail.com (TouEXE)</author>
         <atom:modified>Fri, 29 Apr 2022 18:56:28 +0700</atom:modified>
         <guid>https://touexe.com/posts/7-segments-introduction-and-simulation/</guid>
-        <description>7 segment display ជាអ្វី ? 
-7 Segment display គឺជាគ្រឿងអេឡិចត្រូនិចដែលមានមុខងារបង្ហាញជាលេខឫអក្សរ ។
+        <description>7 segment display ជាអ្វី ? 7 Segment display គឺជាគ្រឿងអេឡិចត្រូនិចដែលមានមុខងារបង្ហាញជាលេខឫអក្សរ ។
 “ 7 Segment ” អាចបកប្រែមកជាភាសាខ្មែរថា “ ប្រាំពីរកំណាត់ ” ។ វាបង្កើតឡើងដោយបង្គុំអំពូលភ្លើង LED ផ្គុំគ្នាចេញជា 7 កំណាត់ កំណាត់នីមួយៗអាចតាងជាអក្សរ A, B, C, D, E, F, G ។
-7 segment display labels:  
-7 Segment display អាចបង្ហាញលេខចំនួន 10លេខ ចាប់ពីលេខ 0 ដល់លេខ 9 និងអក្សរចំនូន 6 ចាប់ពី A ដល់ F ដោយមានបង្គុំអំពូល LED នៅកំណាត់ណាមួយ បេីក ឫ បិទ ( មានភ្លើង ឫ អត់ភ្លើង ) ។ Ex : ដើម្បីបង្ហាញលេខ 9 កំណាត់ E ត្រូវបិទរីឯកំណាត់ផ្សេងៗត្រូវភ្លឺទាំងអស់ ។ វាអាចបង្ហាញលេខអក្សរមួយចំនួនដែលបានរៀបរាប់ខាងលើតែប៉ុណ្ណោះទេ វាមិនបង្ហាញអក្សរផ្សេងៗឫសញ្ញាផ្សេងៗទៀតបានឡើយ តែអាចធ្វើបានដោយទ្រឺស្ដីផ្សេង :</description>
+7 segment display labels: 7 Segment display អាចបង្ហាញលេខចំនួន 10លេខ ចាប់ពីលេខ 0 ដល់លេខ 9 និងអក្សរចំនូន 6 ចាប់ពី A ដល់ F ដោយមានបង្គុំអំពូល LED នៅកំណាត់ណាមួយ បេីក ឫ បិទ ( មានភ្លើង ឫ អត់ភ្លើង ) ។ Ex : ដើម្បីបង្ហាញលេខ 9 កំណាត់ E ត្រូវបិទរីឯកំណាត់ផ្សេងៗត្រូវភ្លឺទាំងអស់ ។ វាអាចបង្ហាញលេខអក្សរមួយចំនួនដែលបានរៀបរាប់ខាងលើតែប៉ុណ្ណោះទេ វាមិនបង្ហាញអក្សរផ្សេងៗឫសញ្ញាផ្សេងៗទៀតបានឡើយ តែអាចធ្វើបានដោយទ្រឺស្ដីផ្សេង :</description>
         
         <dc:creator>TouEXE</dc:creator>
         <media:content url="https://touexe.com/images/7-segment-display/7Segment8.png" medium="image"><media:title type="html">featured image</media:title></media:content>
