@@ -14,11 +14,71 @@
     <managingEditor>mrrtou@protonmail.com (TouEXE)</managingEditor>
     <webMaster>mrrtou@protonmail.com (TouEXE)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 23 Oct 2022 22:23:40 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 23 Oct 2022 22:46:32 +0700</lastBuildDate>
     
         <atom:link href="https://touexe.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Matrix inverse in programming</title>
+        <link>https://touexe.com/posts/matrix_inverse_in_programming/</link>
+        <pubDate>Sun, 23 Oct 2022 22:46:32 +0700</pubDate>
+        <author>mrrtou@protonmail.com (TouEXE)</author>
+        <atom:modified>Sun, 23 Oct 2022 22:46:32 +0700</atom:modified>
+        <guid>https://touexe.com/posts/matrix_inverse_in_programming/</guid>
+        <description>Introduction calculate matrix inverse programmingly.
+Source code ( Python ) UPDATE LATER IN A DAY.
+python Output </description>
+        
+        <dc:creator>TouEXE</dc:creator>
+        <media:content url="https://touexe.com//images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Matrix determinant in programming</title>
+        <link>https://touexe.com/posts/matrix_determinant_in_programming/</link>
+        <pubDate>Sun, 23 Oct 2022 22:46:07 +0700</pubDate>
+        <author>mrrtou@protonmail.com (TouEXE)</author>
+        <atom:modified>Sun, 23 Oct 2022 22:46:07 +0700</atom:modified>
+        <guid>https://touexe.com/posts/matrix_determinant_in_programming/</guid>
+        <description>Introduction calculate matrix determinant programmingly.
+Source code ( Python ) UPDATE LATER IN A DAY
+python Output </description>
+        
+        <dc:creator>TouEXE</dc:creator>
+        <media:content url="https://touexe.com//images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Guassian elimination in programming</title>
+        <link>https://touexe.com/posts/guassian_elimination_in_programming/</link>
+        <pubDate>Sun, 23 Oct 2022 22:45:36 +0700</pubDate>
+        <author>mrrtou@protonmail.com (TouEXE)</author>
+        <atom:modified>Sun, 23 Oct 2022 22:45:36 +0700</atom:modified>
+        <guid>https://touexe.com/posts/guassian_elimination_in_programming/</guid>
+        <description>Introduction calculate matrix using Guassian Elimination programmingly.
+Source code ( Python ) UPDATE LATER IN A DAY.
+python Output </description>
+        
+        <dc:creator>TouEXE</dc:creator>
+        <media:content url="https://touexe.com//images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Iteration method in programming</title>
@@ -31,7 +91,7 @@
 Source code ( Python ) python 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 def guass_seidel(n : int) -&amp;gt; list[tuple]: x = 0 y = 0 z = 0 result = [] for _ in range(1,n + 1): x = ((1 / 8) * y ) + ((1 / 8) * z ) - (1 / 8) y = ((1 / 5) * x) + ((1 / 5) * z ) - (16 /5) _z = ((1 / 4) * x) + ((1 / 4) * y ) - (7 /4) result.</description>
         
         <dc:creator>TouEXE</dc:creator>
-        
+        <media:content url="https://touexe.com//images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
